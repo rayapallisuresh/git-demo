@@ -1,3 +1,2 @@
 hello this is start file
-this is 2nd line in start
 this is 3rd line in start
